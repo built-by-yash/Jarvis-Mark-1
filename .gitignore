@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ 
+# Python
+__pycache__/
+*.pyc
+ 
+# Voice models and generated audio (large; users download their own)
+*.onnx
+*.onnx.json
+*.wav
+ 
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ 
