@@ -1,4 +1,4 @@
-# Jarvis: a local voice assistant
+# Jarvis (Mark-1): a local voice assistant
 
 A voice assistant that runs on your own computer. Say the wake word, ask something, and it answers out loud while a 3D particle orb reacts to what it is doing.
 
